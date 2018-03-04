@@ -15,7 +15,6 @@ var lines = String(contents).split(/\n/);
 
      var href = "https://www.lafourchette.com/search-refine/"+String(title);
 
-}
 
      request(config, function (error, response, body) {
                  var $ = cheerio.load(body);
