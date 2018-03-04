@@ -15,7 +15,11 @@ var lines = String(contents).split(/\n/);
 
      var href = "https://www.lafourchette.com/search-refine/"+String(title);
 
-
+	 const config = {
+    'uri': href,
+    
+    } 
+}
      request(config, function (error, response, body) {
                  var $ = cheerio.load(body);
                  var json = { title : "", deal:""};
