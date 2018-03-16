@@ -1,4 +1,8 @@
-# TOP CHEF
+﻿# TOP CHEF
+
+# J'ai malencontreusement supprimé tout le repository top-chef alors que je voulais uniquement supprimé un dossier top-chef qui était en doublon suite à un commit fait trop rapidement.
+#J'ai donc re forké votre repository et j'ai mis d'un coup ce que j'ai réussi à faire (je me suis uniquement concentrée sur le côté serveur pour rendre quelquechose qui marche. 
+#Je n'ai donc pas du tout abordé le côté client avec react.)
 
 > Eat well and cheaper than usually
 
